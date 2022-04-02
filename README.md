@@ -11,9 +11,5 @@
 ##
 
 🔰 **SPECIAL CREDITS, THANK YOU TO**
-*   [SENDI](https://github.com/SendiAp/Rose-Userbot)   ROSE-USERBOT
-*   [RISMAN](https://github.com/mrismanaziz/Man-Userbot)   MAN-USERBOT
-*   [SKYZU](https://github.com/Skyzu/skyzu-userbot)   SKYZU-USERBOT
-*   [BAGASKARA](https://github.com/ybgskr12/BAGAS-USERBOT) BAGASKARA-USERBOT
-*   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
+*  TERIMAKASIH KEPADA USERBOT LAINNYA
 
